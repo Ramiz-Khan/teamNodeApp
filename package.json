@@ -1,0 +1,22 @@
+{
+  "name": "players-game",
+  "version": "1.1.1",
+  "description": "making players using constructor",
+  "main": "playerGame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramiz-Khan/teamNodeApp.git"
+  },
+  "author": "ramiz khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ramiz-Khan/teamNodeApp/issues"
+  },
+  "homepage": "https://github.com/Ramiz-Khan/teamNodeApp#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
